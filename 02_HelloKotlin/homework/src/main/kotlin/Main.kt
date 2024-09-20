@@ -10,7 +10,7 @@ fun main() {
         println("Видимо, низкий Iq") */
 
     print("Workplace: ")
-    println("Rostlecom")
+    println("Rostelecom")
 
 //    print("как-то так")
 
