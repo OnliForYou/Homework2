@@ -1,6 +1,6 @@
 fun main() {
     var firstName = "Timur"
-    var lastName = "Galeev"
+    var lastName = "Galv"
     var height = 176.toDouble()
     var weight = 76f
     var heightChild = 150
